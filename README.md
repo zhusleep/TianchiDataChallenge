@@ -1,6 +1,6 @@
 # TianchiDataChallenge
 ## 懒得整理了，这次比赛的核心代码全部上传在这里。主要思路如下
-1. 数据抽样 -> Sample data.ipynb \n
+1. 数据抽样 -> Sample data.ipynb 
 2. EDA ->EDA.ipynb
 3. StackNET 第一层 ->layer_1_model_gbm.ipynb
   主要是提取一些基础特征做回归，lightgbm模型速度比较快。
